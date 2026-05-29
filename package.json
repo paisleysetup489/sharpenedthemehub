@@ -1,0 +1,12 @@
+{
+  "name": "xml-builder-26afd5",
+  "version": "1.0.0",
+  "description": "A xml-builder utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["xml-builder", "utility"],
+  "license": "MIT"
+}
