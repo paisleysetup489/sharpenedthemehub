@@ -1,4 +1,4 @@
-# xml-builder-26afd5
+# xml-builder-1000ec
 
 A Node.js xml-builder utility.
 

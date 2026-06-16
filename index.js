@@ -1,5 +1,5 @@
 'use strict';
-const APP_TAG = 'xml-builder-26afd5';
+const APP_TAG = 'xml-builder-1000ec';
 async function execute() {
   console.log(`[${APP_TAG}] Starting...`);
   const start = Date.now();
